@@ -1,0 +1,6 @@
+{
+  "name": "JobSpy Dashboard",
+  "description": "Aggregated job search dashboard inspired by Python JobSpy library",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
